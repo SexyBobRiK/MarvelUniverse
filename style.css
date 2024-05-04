@@ -1,0 +1,16 @@
+#comics-for-script {
+  display: none;
+}
+
+img {
+  border-radius: 2px;
+}
+
+.char__item:hover {
+  width: 200px;
+  height: 318px;
+  background-color: dark;
+  box-shadow: 0 5px 20px #9f0013;
+  padding: 15px;
+  cursor: pointer;
+}
