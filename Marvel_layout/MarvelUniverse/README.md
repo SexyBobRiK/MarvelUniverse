@@ -1,2 +1,0 @@
-# MarvelUniverse
-MarvelUniverse project
