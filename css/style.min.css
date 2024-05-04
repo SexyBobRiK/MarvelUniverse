@@ -16,3 +16,15 @@
 	justify-content: end;
 }
 /*# sourceMappingURL=style.min.css.map */
+
+.char__info-block {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.char-img {
+	width: 370px;
+	height: 370px;
+}
